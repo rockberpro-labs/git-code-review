@@ -2,7 +2,7 @@
 
 set -e
 
-BASE_URL="https://raw.githubusercontent.com/rockberpro/git-code-review/main"
+BASE_URL="https://raw.githubusercontent.com/rockberpro-labs/git-code-review/main"
 
 GITCONFIG_PATH="$HOME/.git-code-review.gitconfig"
 START_PATH="$HOME/.git-code-review-start.sh"

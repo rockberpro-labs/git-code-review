@@ -3,7 +3,7 @@
 ## Manual install
 
 ```bash
-BASE=https://raw.githubusercontent.com/rockberpro-dev/git-code-review/main
+BASE=https://raw.githubusercontent.com/rockberpro-labs/git-code-review/main
 curl -fsSL $BASE/git-code-review.gitconfig -o ~/.git-code-review.gitconfig
 curl -fsSL $BASE/git-start-review.sh -o ~/.git-code-review-start.sh
 curl -fsSL $BASE/git-end-review.sh   -o ~/.git-code-review-end.sh

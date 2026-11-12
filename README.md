@@ -11,7 +11,7 @@
 **Linux / macOS / Git Bash:**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/rockberpro-dev/git-code-review/main/setup.sh | bash
+curl -fsSL https://raw.githubusercontent.com/rockberpro-labs/git-code-review/main/setup.sh | bash
 ```
 
 **From a local clone:**
